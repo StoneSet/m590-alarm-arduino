@@ -13,8 +13,7 @@ You can connect three input (NO), and when somthing goes wrong, a SMS will be se
 3. Remove the security pin on the sim card
 4. Insert the sim card, power on and vouala !
 
-<img src="https://cdn.discordapp.com/attachments/517822276889215018/616613130604118016/IMG_0390.JPG" alt="alt" width="400">
-<img src="https://cdn.discordapp.com/attachments/517822276889215018/616612602717405185/IMG_0391.JPG" alt="alt" width="400">
+<img src="https://cdn.discordapp.com/attachments/517822276889215018/616613130604118016/IMG_0390.JPG" alt="alt" width="400"> <img src="https://cdn.discordapp.com/attachments/517822276889215018/616612602717405185/IMG_0391.JPG" alt="alt" width="400">
 
 #
 (c) @StoneSet - http://stoneset.fr/ (2019)
